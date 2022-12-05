@@ -11,7 +11,7 @@ import Icon8 from "../../assets/images/icon8.svg"
 const Header = ({img}) => {
    return(
     <header className="header">
-     <a className="header__logo" href="#">
+     <a className="header__logo" href="http://localhost:3000/">
       <img className="header__img" src={img} alt="Logo"/>
      </a>
      <ul className="header__list">
