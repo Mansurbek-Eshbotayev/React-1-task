@@ -1,5 +1,5 @@
 import "./mintitle.scss"
-// const Picsum = "https://picsum.photos/id/400/1000"
+const Picsum = "https://picsum.photos/id/400/1000"
 const MinTitle = ()=>{
   return(
 <div className="container">
@@ -14,7 +14,7 @@ const MinTitle = ()=>{
     </div>
   </div>
  <div className="wrap__img">
- {/* <img className="picsum__photo" src={Picsum} alt='photo'/> */}
+ <img className="picsum__photo" src={Picsum} alt='photo'/>
  </div>
 </div>
     )
