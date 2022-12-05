@@ -1,0 +1,22 @@
+.fix__item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 32px;
+  border-bottom: 1px solid #DFE0EB;
+}
+
+.fix__title{
+  margin: 0;
+  font-size: 14px;
+line-height: 20px;
+color: #252733;
+}
+
+.fix__text{
+  font-size: 14px;
+line-height: 20px;
+text-align: right;
+letter-spacing: 0.2px;
+color: #9FA2B4;
+}

@@ -1,0 +1,30 @@
+.header{
+  width: 100%;
+  max-width: 255px;
+  height: 100vh;
+  background-color: #363740;
+ 
+}
+
+.header__logo{
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  padding-top: 37px;
+  margin-bottom: 60px;
+}
+
+.header__list{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-bottom: 1px solid #dfe0eb49;
+  padding-bottom: 10px;
+}
+
+.header__scond{
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+  list-style: none;
+}
