@@ -1,5 +1,5 @@
 import "./mintitle.scss"
-const Picsum = "https://picsum.photos/id/400/1000"
+import Picsum from "../../assets/images/our.jpg"
 const MinTitle = ()=>{
   return(
 <div className="container">
