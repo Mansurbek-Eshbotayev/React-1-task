@@ -14,7 +14,7 @@ const MinTitle = ()=>{
     </div>
   </div>
  <div className="wrap__img">
- <img className="picsum__photo" src={Picsum} alt='photo'/>
+ <img className="picsum__photo" src={Picsum} alt='man woarking'/>
  </div>
 </div>
     )
