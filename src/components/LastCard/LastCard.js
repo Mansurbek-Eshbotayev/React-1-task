@@ -10,7 +10,7 @@ const LastCard = ({titl,texting,link,chldreen})=>{
            <h5 className="last__intero">{titl}</h5>
            <p className="last__text">{texting}</p>
          </div>
-         <a className="last__link">{link}</a>
+         <a className="last__link" href="http://localhost:3000/">{link}</a>
        </div>
        <ul className="panding__list">
         <FixItem text="Waiting on Feature Request" count="4238" />
